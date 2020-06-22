@@ -1,0 +1,14 @@
+{
+    "iss-now": {
+      "message": "success",
+      "iss_position": { "longitude": "53.0671", "latitude": "-34.6539" },
+      "timestamp": 1587904635
+    },
+    "create-class": {
+      "success": true,
+        "message": "success", "estimated_data": {
+        "class": 3,
+        "confidence": 0.8683 
+      } 
+    }
+  }
